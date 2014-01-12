@@ -1,0 +1,24 @@
+*.DS_Store
+*.log
+
+# Objects
+*.o
+*.a
+
+*core
+*.exe
+
+build-aux/
+
+# Autotools stuff
+aclocal.m4
+ar-lib
+autom4te.cache
+config.h*
+config.status
+configure
+*Makefile.in
+*Makefile
+stamp-h1
+depcomp
+*.deps
